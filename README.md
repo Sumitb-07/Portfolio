@@ -14,6 +14,8 @@
 
 *DESCRIPTION OF PROJECT*:
 
+For this task, I created a personal portfolio webpage to showcase my skills, projects, and contact details.
+
 **Tools & Technologies Used** :
   •	Frontend: HTML, CSS, JavaScript
   •	Frameworks: Bootstrap or Tailwind CSS for styling
@@ -44,4 +46,4 @@
   •	Debugging CSS flexbox/grid issues for layout perfection
   •	Deploying the webpage on GitHub Pages/Vercel for public access
 
-**Output of the task** : 
+**Output of the task** : ![Image](https://github.com/user-attachments/assets/78ee7778-fa6c-4f4c-bc62-4ea2cf615a1f)
